@@ -1,5 +1,5 @@
 # CampusShare — Hrithik (Module 1 & 2)
-**CSE471 Spring 2026 | Group 11**
+**CSE471 Spring 2026 | Group 1**
 
 ## Features
 | Module | Feature |
